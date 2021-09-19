@@ -1,0 +1,16 @@
+---
+:id: 59595730
+:submitters:
+- :name: Caleb Pennington
+  :email: cpenn@wharton.upenn.edu
+- :name: Nicolas Isaza
+  :email: isaza@wharton.upenn.edu
+- :name: Edwin Castaneda-campos
+  :email: esc987@wharton.upenn.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-12-16 03:18:52.798494000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-12-15 19:18:52.798494000 Z
+:status: processed
+:score: 105.0
